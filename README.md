@@ -1,6 +1,6 @@
 # Datasets for dbdemos
 
-Most of the demos generate fake data during initialization.
+Most of the demos available in dbdemos ([https://dbdemos.ai](dbdemos.ai)) generate fake data during initialization.
 
 Some content require more advanced dataset that we can craft before for simplicity. 
 
