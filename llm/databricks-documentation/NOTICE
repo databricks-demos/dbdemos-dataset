@@ -1,0 +1,5 @@
+This documentation dataset is generated from docs.databricks.com website. 
+© Databricks 2023. All rights reserved. Apache, Apache Spark, Spark, and the Spark logo are trademarks of the Apache Software Foundation.
+For more details, please see https://databricks.com/privacy-policy and https://databricks.com/terms-of-use
+
+Question and Answer datasets are generated from the databricks docs dataset using Azure OpenAI gpt3.5. Azure license and its underlying model applies. This dataset is only used for educational purpose within dbdemos.
