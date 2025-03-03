@@ -1,0 +1,1 @@
+This data has been generated using synthea. See [synthea license: apache2](https://github.com/synthetichealth/synthea/blob/master/LICENSE)
