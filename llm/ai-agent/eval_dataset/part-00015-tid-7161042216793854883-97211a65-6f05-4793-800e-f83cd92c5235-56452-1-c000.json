@@ -1,0 +1,1 @@
+{"inputs":{"question":"Is autopay enabled for Thomas Green's account?"},"predictions":"","expectations":{"expected_facts":["The customer record does not contain any information about autopay status.","There is no data indicating whether autopay is enabled or disabled for Thomas Green's account.","The provided customer information does not include autopay settings."]}}
